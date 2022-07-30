@@ -1,0 +1,1 @@
+INSERT INTO technician (name) VALUES (?);
